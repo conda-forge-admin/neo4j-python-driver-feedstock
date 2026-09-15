@@ -192,6 +192,3 @@ Feedstock Maintainers
 * [@thebestnom](https://github.com/thebestnom/)
 * [@xylar](https://github.com/xylar/)
 
-
-<!-- dummy commit to enable rerendering -->
-
